@@ -22,3 +22,4 @@ composer install --dev
 ```
 
 4) Done! Now the binaries from the project are installed in /usr/local/bin/
+
